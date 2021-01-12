@@ -3,7 +3,7 @@ HTML Encryption web suite that's help to privent your webpage from atacker.
 
 <h1 align="center"> 
 
-    <img src="https://github.com/Ba-hub/html-encryption/raw/master/html-en.png" alt="HTML" /> <br>    
+    <img src="https://github.com/Ba-hub/html-encryption/html-en.png" alt="HTML" /> <br>    
     
 ### Upload Full Source code into Your web server 
 
